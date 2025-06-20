@@ -22,15 +22,11 @@ This project enables voice-controlled autonomous flight using a Tello drone. It 
 ## Setup Instructions
 
 ### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/tello-voice-agent.git
-cd tello-voice-agent
-```
+
 
 ### 2. Install dependencies
-```bash
+
 pip install -r requirements.txt
-```
 
 ### 3. Add .env file
 Create a .env file in the root directory with:
@@ -39,7 +35,7 @@ Create a .env file in the root directory with:
 GOOGLE_API_KEY=your_gemini_api_key
 ```
 
-(Optional) If using OpenAI:
+If using OpenAI:
 ```
 OPENAI_API_KEY=your_openai_api_key
 ```
