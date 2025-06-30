@@ -1,6 +1,6 @@
 # LLM-based-drone-voice-control-agent
 
-This project enables voice-controlled autonomous flight using a Tello drone. It combines LangGraph, Google Gemini, and LangChain to interpret user speech, plan actions, and execute drone maneuvers using ReAct-style agents.
+This project enables voice-controlled autonomous flight using a Tello drone. It combines LangGraph, Google Gemini, plan actions, and execute drone maneuvers using LLM-based- agent.
 example video link:
 https://www.linkedin.com/posts/ron-salomon96_can-llms-operate-in-the-real-world-as-activity-7342246338752884736-38m4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_mZc4BRPay8Hlblk3_Q1IlaAooTUeFZPo
 ## Features
